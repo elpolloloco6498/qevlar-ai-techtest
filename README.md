@@ -27,7 +27,7 @@ Welcome to the Bookstore Order System! This program enhances the order system of
    ```
 3. Run the test file
    ```bash
-   pytest test_mod.py
+   pytest test_bookstore.py
    ```
 4. Run the main file
    ```bash
