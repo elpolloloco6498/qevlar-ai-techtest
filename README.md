@@ -23,5 +23,5 @@ Welcome to the Bookstore Order System! This program enhances the order system of
 2. Install the required dependencies using the following command:
 
    ```bash
-   pip install -r requierements.txt
+   pip install -r requirements.txt
    ````
