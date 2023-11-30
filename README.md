@@ -14,6 +14,9 @@ Welcome to the Bookstore Order System! This program enhances the order system of
    - Discounts for customers purchasing products from a specific author.
    - Free shipping for orders above $50.
 
+2. **Shippping cost:**
+   - shipping cost according to distance betweend the store and the customer.
+
 ## How to Run
 
 1. Ensure you have Python installed on your machine.
