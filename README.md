@@ -24,4 +24,12 @@ Welcome to the Bookstore Order System! This program enhances the order system of
 
    ```bash
    pip install -r requirements.txt
-   ````
+   ```
+3. Run the test file
+   ```bash
+   pytest test_mod.py
+   ```
+4. Run the main file
+   ```bash
+   python bookstore.py
+   ```
